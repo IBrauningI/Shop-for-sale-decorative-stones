@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\bin\Debug\net5.0\Rocky_DataAccess.deps.json
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\bin\Debug\net5.0\Rocky_DataAccess.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\bin\Debug\net5.0\ref\Rocky_DataAccess.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\bin\Debug\net5.0\Rocky_DataAccess.pdb
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\bin\Debug\net5.0\Rocky_Models.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\bin\Debug\net5.0\Rocky_Utility.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\bin\Debug\net5.0\Rocky_Models.pdb
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\bin\Debug\net5.0\Rocky_Utility.pdb
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\obj\Debug\net5.0\Rocky_DataAccess.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\obj\Debug\net5.0\Rocky_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\obj\Debug\net5.0\Rocky_DataAccess.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\obj\Debug\net5.0\Rocky_DataAccess.AssemblyInfo.cs
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\obj\Debug\net5.0\Rocky_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\obj\Debug\net5.0\Rocky_DataAccess.csproj.CopyComplete
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\obj\Debug\net5.0\Rocky_DataAccess.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\obj\Debug\net5.0\ref\Rocky_DataAccess.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_DataAccess\obj\Debug\net5.0\Rocky_DataAccess.pdb

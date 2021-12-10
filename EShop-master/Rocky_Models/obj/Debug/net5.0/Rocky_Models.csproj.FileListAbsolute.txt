@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\bin\Debug\net5.0\Rocky_Models.deps.json
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\bin\Debug\net5.0\Rocky_Models.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\bin\Debug\net5.0\ref\Rocky_Models.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\bin\Debug\net5.0\Rocky_Models.pdb
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\obj\Debug\net5.0\Rocky_Models.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\obj\Debug\net5.0\Rocky_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\obj\Debug\net5.0\Rocky_Models.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\obj\Debug\net5.0\Rocky_Models.AssemblyInfo.cs
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\obj\Debug\net5.0\Rocky_Models.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\obj\Debug\net5.0\Rocky_Models.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\obj\Debug\net5.0\ref\Rocky_Models.dll
+C:\Users\admin\Desktop\Магістерка\ООА\EShop-master (2)\EShop-master\Rocky_Models\obj\Debug\net5.0\Rocky_Models.pdb
